@@ -2,4 +2,4 @@ All dialogue belongs to AdHoc Studio and Critical Role. This transcript is provi
 
 Also contains all the options text as well as dispatching gameplay banter.
 
-The writing in Dispatch is genuinely excellent — if you haven't played it, you should. **Buy the game:** [Steam](https://store.steampowered.com/app/2592160/Dispatch/)
+How I made this mod (writeup): [misterchedda.com/blog/dispatch-voiceover-mod](https://www.misterchedda.com/blog/dispatch-voiceover-mod)
